@@ -4,10 +4,6 @@
  
 前日までにアプリで注文をすると翌朝の６時〜１０時の間で指定した時間に近くのパン屋などから朝食を配達してもらえるサービス
 
-
-## テストユーザー
-メールアドレス： terahiro0918@icloud.com
-パスワード： 123456
  
 # デモ
 [![Image from Gyazo](https://i.gyazo.com/d6be7f290c5461b73ced87df15cd9570.gif)](https://gyazo.com/d6be7f290c5461b73ced87df15cd9570)
